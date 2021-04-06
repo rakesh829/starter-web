@@ -17,3 +17,5 @@ Sample website with plenty of files for demos
 Please fork this repository and issue pull requests
 
 On stash example.
+
+Adding another file for git stash 
