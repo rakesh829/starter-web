@@ -14,4 +14,6 @@ Sample website with plenty of files for demos
 
 2014.Git.Training
 
-Please fork this repository and issue pull requests.
+Please fork this repository and issue pull requests
+
+On stash example.
